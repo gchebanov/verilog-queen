@@ -1,5 +1,5 @@
 module queen(go, clk, ans, valid);
-  parameter N=11;
+  parameter N=8;
   parameter LN=5;
   input go, clk;
   output valid;
